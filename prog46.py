@@ -1,2 +1,2 @@
-N=int(raw_input())
-print N+1
+x=int(raw_input())
+print x+1
